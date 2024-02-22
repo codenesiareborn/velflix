@@ -31,7 +31,7 @@ return [
     ],
 
     'tmdb' => [
-        'token' => env('TMDB_TOKEN'),
+        'token' => 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlMzAyYzMxOGQzMGYwNGFiMmZmODhiYjI4ZjA2MjJmYSIsInN1YiI6IjY1ZDZjNDQxZTZkM2NjMDE3YmMxYjZmYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Olh3jvKaZFIdEy-j7Eb5qsoLd4uVhd0wjNE2rF9KvDY',
     ],
 
     'mailchimp' => [
